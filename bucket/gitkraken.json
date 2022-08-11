@@ -1,5 +1,5 @@
 {
-    "version": "8.7.0",
+    "version": "8.8.0",
     "description": "A Git client which helps you track and manage changes to your code.",
     "homepage": "https://www.gitkraken.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://release.gitkraken.com/win64/gitkraken-8.7.0-full.nupkg",
-            "hash": "sha1:d1517069342f0d07e9f92a9623704393aed84867"
+            "url": "https://release.gitkraken.com/win64/gitkraken-8.8.0-full.nupkg",
+            "hash": "sha1:bdf3144c3f8422a42a06f8a30bc4aeb631292799"
         },
         "32bit": {
-            "url": "https://release.gitkraken.com/win32/gitkraken-8.7.0-full.nupkg",
-            "hash": "sha1:0ab1839c651af0fdf8d1c3e5128a6769e0850b25"
+            "url": "https://release.gitkraken.com/win32/gitkraken-8.8.0-full.nupkg",
+            "hash": "sha1:5d102cc954fcbcd0d4c3662049d207f93c3bbe34"
         }
     },
     "extract_dir": "lib\\net45",
