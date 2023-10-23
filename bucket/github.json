@@ -1,12 +1,12 @@
 {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "description": "Extend your GitHub workflow beyond your browser.",
     "homepage": "https://desktop.github.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://central.github.com/deployments/desktop/desktop/latest/GitHubDesktop-3.3.3-x64-full.nupkg",
-            "hash": "sha1:0ddcdf9de67008dac018c427065e182a1b3be068"
+            "url": "https://central.github.com/deployments/desktop/desktop/latest/GitHubDesktop-3.3.4-x64-full.nupkg",
+            "hash": "sha1:d7041ddb63352e0a50dcb08b7473782168f47097"
         }
     },
     "extract_dir": "lib\\net45",
