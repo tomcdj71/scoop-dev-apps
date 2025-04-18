@@ -1,10 +1,10 @@
 {
-    "version": "8.0.0",
+    "version": "8.1.0",
     "description": "Universal development environment for PHP, Node.js, Python, Java, Go, and Ruby.",
     "homepage": "https://laragon.org/",
     "license": "MIT",
-    "url": "https://github.com/leokhoa/laragon/releases/download/8.0.0/laragon-portable.zip",
-    "hash": "53ed7ab1a90a62073ad623248afa954ed5d509cd926e9b977f1612fe93eae376",
+    "url": "https://github.com/leokhoa/laragon/releases/download/8.1.0/laragon-portable.zip",
+    "hash": "0a5f3bee92e4b67859f143448a22409f68a938045a74633f83ff261991d5ef06",
     "shortcuts": [
         [
             "laragon.exe",
