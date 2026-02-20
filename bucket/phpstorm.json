@@ -1,13 +1,13 @@
 {
-    "version": "2025.3.2-253.30387.85",
+    "version": "2025.3.3-253.31033.138",
     "description": "Cross-Platform IDE for PHP by JetBrains.",
     "homepage": "https://www.jetbrains.com/phpstorm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/webide/PhpStorm-2025.3.2.exe#/dl.7z",
-    "hash": "708d91379a57f0a7eaf8d18532997f747dbc0c89f34bbfa65dcd4eef0c3949a2",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2025.3.3.exe#/dl.7z",
+    "hash": "8627cf2c43010aad6b84e8b51870255b210c540684fa3a941f8aab401648af5a",
     "extract_to": "IDE",
     "installer": {
         "script": [
