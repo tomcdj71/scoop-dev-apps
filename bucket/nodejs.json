@@ -1,13 +1,13 @@
 {
-    "version": "26.12.1",
+    "version": "26.13.0",
     "description": "An asynchronous event driven JavaScript runtime designed to build scalable network applications.",
     "homepage": "https://nodejs.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://nodejs.org/dist/v26.12.1/node-v26.12.1-win-x64.7z",
-            "hash": "4deef78146a60555c9518438cae38da8df71722ca856920b90078f5cdeb642a6",
-            "extract_dir": "node-v26.12.1-win-x64"
+            "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-win-x64.7z",
+            "hash": "f305a9b96344a0f83a9e5fabe107f703148af5d73d958b18b65db5b0760d2c53",
+            "extract_dir": "node-v26.13.0-win-x64"
         }
     },
     "persist": [
